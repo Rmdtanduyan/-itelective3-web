@@ -6,7 +6,9 @@
 ### Frameworks
 
 * <img align="left" src="logo1.png" style="text-align: center;" height="20" width="20"> - [WordPress](https://wordpress.com/)
-* <img align="left" src="logo1.png" style="text-align: center;" height="20" width="20"> - [woocommerce](https//https://woocommerce.com/)
+* <img align="left" src="logo2.png" style="text-align: center;" height="20" width="20"> - [woocommerce](https//https://woocommerce.com/)
 
+### Customer Management System
 
+* <img align="left" src="system.png" style="text-align: center;" height="20" width="20">
 
