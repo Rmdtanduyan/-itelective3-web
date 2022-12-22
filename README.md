@@ -13,9 +13,11 @@
 
 
 ### Sub System
-*Client Database and Connection
-*Organization and Distribution
-*Admin System
+* Client Database and Connection
+
+* Organization and Distribution
+
+* Admin System
 
 <img align="left" src="system.png" style="text-align: center;" height="600" width="600">'
 
